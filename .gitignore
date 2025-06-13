@@ -1,6 +1,0 @@
-# Ignore tout
-*
-
-# Mais pas ce fichier spécifique
-!oct_projet.ipynb
-!oct_project_ca_a_cook_fort_ici.ipynb
